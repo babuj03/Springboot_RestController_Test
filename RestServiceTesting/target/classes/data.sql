@@ -1,0 +1,3 @@
+insert into contact_entity (id, first_name, last_name, phone, post_code,create_date) values (111, 'jay','hanuman', '12312', 'ne65bj','2020-01-01')
+insert into contact_entity (id, first_name, last_name, phone, post_code,create_date) values (222, 'jay','hanuman', '12312', 'ne65bj','2020-01-01')
+insert into contact_entity (id, first_name, last_name, phone, post_code,create_date) values (333, 'jay','hanuman', '12312', 'ne65bj','2020-01-01')
